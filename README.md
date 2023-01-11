@@ -5,16 +5,17 @@ Dhairya</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adhairyaa" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
 
 
 - 🌱 I’m currently Working on Web App(JS,React)
@@ -43,8 +44,6 @@ Dhairya</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/adhairyaa">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
