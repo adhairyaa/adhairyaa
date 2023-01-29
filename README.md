@@ -2,7 +2,7 @@
 Dhairya</a></h1>
 <h3 align="center">A passionate Web App developer from Delhi India &#127470;&#127475</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="adhairyaa" /> </p>
+https://rushter.com/counter.svg
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
