@@ -23,7 +23,7 @@ Dhairya</a></h1>
 
 - 📫 How to reach me **dhairyagulati370@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1WbighSXQhzeMH2S4WLYYJ9iEQgScoMu9/view?usp=share_link](https://drive.google.com/file/d/1BuHZa6U6uo_ItE_JfiSPAaLpgnvraTBE/view?usp=drive_link)" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BuHZa6U6uo_ItE_JfiSPAaLpgnvraTBE/view?usp=drive_link" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
